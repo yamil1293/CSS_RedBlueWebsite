@@ -1,7 +1,6 @@
 # RedAndBlueSite
 > A simple site displaying 2 columns with various styling.
 
-[![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
 	https://yamilburgos.github.io/RedAndBlueSite
